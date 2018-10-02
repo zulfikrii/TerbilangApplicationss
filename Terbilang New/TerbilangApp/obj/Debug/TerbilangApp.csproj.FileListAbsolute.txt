@@ -1,0 +1,36 @@
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\Kuliah\Matkul Informatika\Semseter 3\Pemograman Lanjut\2\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.exe
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.pdb
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.exe
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.pdb
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+E:\KULIAH Sem III\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+F:\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+F:\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.exe
+F:\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.pdb
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\Tugas JARKOM\Terbilang New\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
